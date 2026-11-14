@@ -16,7 +16,7 @@ The quiz and streak features were integrated from teammates' prototypes (`quiz_f
 ## Run it (Windows, ~2 minutes)
 
 ```powershell
-git clone https://github.com/fakrulislam0085/plusone.git; cd plusone
+git clone https://github.com/fakrulislam0085/reply-hackathon-matteo.git; cd reply-hackathon-matteo
 python -m venv .venv; .\.venv\Scripts\python -m pip install -r requirements.txt
 copy .env.example .env          # then put your Anthropic API key in .env (no quotes)
 .\.venv\Scripts\python scripts\seed_demo.py      # synthetic class for the professor view
